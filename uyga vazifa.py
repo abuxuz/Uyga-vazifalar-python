@@ -21,3 +21,4 @@
 #         print(f'{i}= {taomlar[i]}')
 #     else:
 #          print(f'{i} bizda yo\'q')
+
